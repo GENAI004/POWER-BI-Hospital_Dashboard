@@ -2,7 +2,7 @@
 
 ## 🔗 Live Interactive Dashboard
 👉 **View Live Dashboard:**  
-https://YOUR_GITHUB_USERNAME.github.io/hospital-powerbi-dashboard/
+ https://genai004.github.io/POWER-BI-Hospital_Dashboard/
 
 
 ---
@@ -149,3 +149,4 @@ POWER-BI_Hospital_Analysis_Dashboard/
 🔗 LinkedIn: linkedin.com/in/rohit-saini-a20650193
 
 📂 GitHub: https://github.com/GENAI004
+
