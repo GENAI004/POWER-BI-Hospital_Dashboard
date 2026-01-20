@@ -146,5 +146,6 @@ POWER-BI_Hospital_Analysis_Dashboard/
 **Rohit Saini**  
 | Aspiring Data Analyst   
 
-🔗 LinkedIn: 
-📂 GitHub: 
+🔗 LinkedIn: linkedin.com/in/rohit-saini-a20650193
+
+📂 GitHub: https://github.com/GENAI004
